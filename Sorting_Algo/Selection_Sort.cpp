@@ -1,7 +1,7 @@
 /*
 Selection Sort
 :Put minimum value at the beginning
-Made by: Rohit Singla
+Made by: Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
