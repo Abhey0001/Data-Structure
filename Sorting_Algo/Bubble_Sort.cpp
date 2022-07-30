@@ -1,7 +1,7 @@
 /*
 Bubble Sort
 :Putting largest element at the end
-Made by: Rohit Singla
+Made by: Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
