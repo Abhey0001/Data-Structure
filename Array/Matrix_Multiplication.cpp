@@ -1,7 +1,7 @@
 /*
 Find the matrix multiplication
 
-Made By : Rohit Singla
+Made By : Abhey Kumar Singla
 */
 #include <iostream>
 using namespace std;
