@@ -3,7 +3,7 @@ Design the logic to remove the duplicate elements from an
 Array and after the deletion the array should contain the unique 
 elements.
 
-Made By : Rohit Singla
+Made By : Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
