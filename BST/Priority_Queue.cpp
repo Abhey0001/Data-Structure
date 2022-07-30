@@ -1,7 +1,7 @@
 /*
 Implement priority queues using heaps.
 
-Made By: Rohit Singla
+Made By: Abhey Kumar Singla
 */
 #include<bits/stdc++.h>
 using namespace std;
