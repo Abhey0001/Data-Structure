@@ -2,7 +2,7 @@
 Write a program to convert an Infix expression
  into a Postfix expression.
 
-Made By: Rohit Singla
+Made By: Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
