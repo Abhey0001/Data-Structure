@@ -9,7 +9,7 @@ an efficient way that reduces the space requirement.
 (d) Upper triangular Matrix.
 (e) Symmetric Matrix
 
-Made By : Rohit Singla
+Made By : Abhey Kumar Singla
 */
 #include <iostream>
 using namespace std;
