@@ -3,7 +3,7 @@ Develop a menu driven program demonstrating the following operations
 on a Stack: push(), pop(), isEmpty(), isFull(), display(), and peek().
 Note: Use either arrays or linked list to implement stack.
 
-Made By: Rohit Singla
+Made By: Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
