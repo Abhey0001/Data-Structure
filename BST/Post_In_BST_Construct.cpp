@@ -1,7 +1,7 @@
 /*
 Given inorder and postorder traversals, construct the BST.
 
-Made By: Rohit Singla
+Made By: Abhey Kumar Singla
 */
 #include<bits/stdc++.h>
 using namespace std;
