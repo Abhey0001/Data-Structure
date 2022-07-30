@@ -1,7 +1,7 @@
 /*
 Write a program for the evaluation of a Postfix expression
 
-Made By: Rohit Singla
+Made By: Abhey Kumar Singla
 */
 #include<iostream>
 #include<math.h>
