@@ -1,6 +1,6 @@
 /*
 Shell Sort
-Made by: Rohit Singla
+Made by: Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
