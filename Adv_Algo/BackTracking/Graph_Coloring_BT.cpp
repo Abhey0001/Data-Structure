@@ -1,7 +1,7 @@
 /*
 Graph Coloring 1 Problem
 
-Made By : Rohit Singla
+Made By : Abhey Kumar Singla
 */
 #include<bits/stdc++.h>
 using namespace std;
