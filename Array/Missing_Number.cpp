@@ -2,7 +2,7 @@
 Design the Logic to Find a Missing Number 
 in a Sorted Array from 1 to n.
 
-Made By : Rohit Singla
+Made By : Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
