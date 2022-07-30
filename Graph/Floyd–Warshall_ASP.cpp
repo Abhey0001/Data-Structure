@@ -1,7 +1,7 @@
 /*
 Write a program to implement Floyd–Warshall's shortest path algorithm.
 
-Made By: Rohit Singla
+Made By: Abhey Kumar Singla
 */
 #include<bits/stdc++.h>
 using namespace std;
