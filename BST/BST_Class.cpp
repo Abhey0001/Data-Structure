@@ -6,7 +6,7 @@ Write a program for binary search tree (BST) having functions for the following 
  Maximum depth, and
  Minimum depth.
 
-Made By: Rohit Singla
+Made By: Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
