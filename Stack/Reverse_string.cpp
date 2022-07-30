@@ -2,7 +2,7 @@
 Given a String, Reverse it using STACK. 
 For example “data structure” should be output as “erutcurts atad.”
 
-Made By: Rohit Singla
+Made By: Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
