@@ -1,7 +1,7 @@
 /*
 Merge Sort
 :Divide and Conquer
-Made by: Rohit Singla
+Made by: Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
