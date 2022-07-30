@@ -1,7 +1,7 @@
 /*
 Find the Transpose of a Matrix
 
-Made By : Rohit Singla
+Made By : Abhey Kumar Singla
 */
 #include<iostream>
 using namespace std;
