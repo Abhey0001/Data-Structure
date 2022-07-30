@@ -2,7 +2,7 @@
 Write a program to find sum of every row 
 and every column in a two-dimensional array.
 
-Made By : Rohit Singla
+Made By : Abhey Kumar Singla
 */
 #include <iostream>
 using namespace std;
