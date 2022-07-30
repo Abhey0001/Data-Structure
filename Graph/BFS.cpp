@@ -1,7 +1,7 @@
 /*
 Write a program to implement breadth first search algorithm.
 
-Made By: Rohit Singla
+Made By: Abhey Kumar Singla
 */
 #include<bits/stdc++.h>
 using namespace std;
